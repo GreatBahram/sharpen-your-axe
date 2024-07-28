@@ -2,6 +2,7 @@
 Repo: [Link](https://github.com/emilybache/KeyboardShortcutKatas.Net/)
 
 ## Shortcuts
+You can use these shortcuts in the *Linux version of VS Code*:
 | **Action**             | **Shortcut**                                    |
 | ---------------------- | ----------------------------------------------- |
 | **Move Line**          | Alt + ↓                                         |
